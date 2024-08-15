@@ -62,7 +62,7 @@ The application uses react-router-dom for routing. Here's a breakdown:
   - **Home (/):** The landing page of the application.
   - **About (/about):** A page that describes the application.
   - **Contact (/contact):** A contact form or information page.
-  - **User (/user/:**userid):** A dynamic route that displays user profiles based on the userid parameter.
+  - **User (/user/:userid):** A dynamic route that displays user profiles based on the userid parameter.
   - **Github (/github):** A page that fetches and displays Github-related data using a loader function.
 ## Component Breakdown
 
